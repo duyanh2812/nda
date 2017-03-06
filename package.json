@@ -1,7 +1,7 @@
 {
-  "name": "angular2-express-mongo",
+  "name": "ngoduyanh",
   "version": "1.0.0",
-  "description": "Angular2, Mongo, Gulp, Typescript and Express",
+  "description": "For personal",
   "scripts": {
     "clean": "gulp clean",
     "compile": "gulp compile",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moizKachwala/Angular2-expressjs-mongoose-gulp-node-typescript.git"
+    "url": "https://github.com/duyanh2812/nda.git"
   },
   "keywords": [
     "Angular2",
@@ -20,7 +20,7 @@
     "Gulp",
     "Typescript"
   ],
-  "author": "Moiz Kachwala",
+  "author": "Ngo Duy Anh",
   "license": "MIT",
   "dependencies": {
 	  "@angular/common": "~2.4.1",
@@ -60,7 +60,7 @@
     "typescript": "^2.0.3"
   },
   "bugs": {
-    "url": "https://github.com/moizKachwala/Angular2-expressjs-mongoose-gulp-node-typescript/issues"
+    "url": "https://github.com/duyanh2812/nda/issues"
   },
-  "homepage": "https://github.com/moizKachwala/Angular2-expressjs-mongoose-gulp-node-typescript#readme"
+  "homepage": "https://github.com/duyanh2812/nda.git#readme"
 } 
